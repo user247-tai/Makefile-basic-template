@@ -1,5 +1,6 @@
 # Makefile-template
 This is a basic Makefile template (not generate HEX or ELF file)
+
 This Makefile operation:
 make build:
 	Compile the main.c and other libs.c files (in src dir)into a main.o file and other libs.o files (in build dir)

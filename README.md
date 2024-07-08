@@ -1,5 +1,5 @@
 # Makefile-template
-This is a basic Makefile template (not generate HEX or ELF file)
+This is a basic Makefile template (using basic GCC compiler and cannot generate HEX or ELF file)
 
 This Makefile operation:
 
